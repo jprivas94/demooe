@@ -1,0 +1,22 @@
+.firstheader {
+	height: 30px;
+	padding: 10px 16px 10px 42px;
+	display: flex;
+	justify-content: space-between;
+	background: #444;
+	font-size: 12px;
+}
+
+.firstheader {
+	color: white;
+}
+
+.firstheader__container__list {
+	display: flex;
+	list-style: none;
+	color: white;
+
+	li {
+		padding: 0 16px;
+	}
+}
