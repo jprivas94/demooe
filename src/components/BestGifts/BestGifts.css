@@ -1,0 +1,7 @@
+.gift {
+	background-image: url('../../assets/bg-gift.png');
+	background-repeat: no-repeat;
+	padding: 20px;
+	max-width: 1280px;
+	margin: 36px auto;
+}
